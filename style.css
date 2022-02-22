@@ -1,0 +1,40 @@
+.jumbotron {
+  padding top: 2rem;
+  background-color: #dbcbad;
+}
+.jumbotron h1 {
+  font-family: Impact, Haettenschweiler;
+  font-size: 60px;
+  font-style: oblique;
+  margin-top: 20px;
+}
+.jumbotron h1 span {
+  color: red;
+}
+.jumbotron button{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#about .col h2 {
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', serif;
+}
+#about .col p {
+  font-family: sans-serif;
+  font-size: 13px;
+}
+#follow{
+  background-color: #dbcbad;
+}
+#follow .col h2{
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer {
+  background-color: #000000;
+}
+.footer p {
+  color: white;
+  font-size: 14px;
+  padding-top: 10px;
+}
